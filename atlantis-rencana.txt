@@ -1,0 +1,4 @@
+- melakukan persiapan UX untuk rancangan aplikasi 
+- menyebarkan form untuk keperluan penelitian
+- pengumpulan data yang diperlukan
+- mencari user sebagai bahan untuk UX
