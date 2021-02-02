@@ -4,3 +4,5 @@
 - mencari user sebagai bahan untuk UX
 - mencari referensi UI
 - mencari kombinasi palete yang bagus
+- membentuk team
+- pembagian tugas
