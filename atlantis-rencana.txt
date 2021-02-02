@@ -5,4 +5,5 @@
 - mencari referensi UI
 - mencari kombinasi palete yang bagus
 - membentuk team
+- membuat rencana prototype
 - pembagian tugas
